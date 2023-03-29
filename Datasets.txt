@@ -1,0 +1,3 @@
+Places365: 				https://www.kaggle.com/datasets/benjaminkz/places365
+Annotated Anime Faces:	https://www.kaggle.com/datasets/andy8744/annotated-anime-faces-dataset
+Black Clover Manga:		https://www.kaggle.com/datasets/chandlertimm/black-clover-manga-dataset
